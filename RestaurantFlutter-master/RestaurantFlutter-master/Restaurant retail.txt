@@ -1,0 +1,7 @@
+-lib/
+   -stocks/
+      - StockScreen.dart
+   -Menu/
+      - MenuManagementScreen1.dart
+      - MenuManagementScreen2.dart
+      - MenuManagementScreen3.dart
